@@ -12,7 +12,7 @@ $repVues = './vues/';
 
 require($repInclude . "_init.inc.php");
 
-// DEBUT du contrôleur ajouter.php
+// DEBUT du contrôleur 
 
 if (count($_POST)==0)
 {
